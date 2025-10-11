@@ -1,0 +1,1 @@
+<a href='[field:arcurl/]'><img src="[field:img2/]" width="1100" height="250" /></a>

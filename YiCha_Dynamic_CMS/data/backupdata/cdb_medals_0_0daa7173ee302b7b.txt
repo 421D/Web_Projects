@@ -1,0 +1,10 @@
+INSERT INTO `cdb_medals` VALUES('1','Medal No.1','0','medal1.gif','0','0','','0','');
+INSERT INTO `cdb_medals` VALUES('2','Medal No.2','0','medal2.gif','0','0','','0','');
+INSERT INTO `cdb_medals` VALUES('3','Medal No.3','0','medal3.gif','0','0','','0','');
+INSERT INTO `cdb_medals` VALUES('4','Medal No.4','0','medal4.gif','0','0','','0','');
+INSERT INTO `cdb_medals` VALUES('5','Medal No.5','0','medal5.gif','0','0','','0','');
+INSERT INTO `cdb_medals` VALUES('6','Medal No.6','0','medal6.gif','0','0','','0','');
+INSERT INTO `cdb_medals` VALUES('7','Medal No.7','0','medal7.gif','0','0','','0','');
+INSERT INTO `cdb_medals` VALUES('8','Medal No.8','0','medal8.gif','0','0','','0','');
+INSERT INTO `cdb_medals` VALUES('9','Medal No.9','0','medal9.gif','0','0','','0','');
+INSERT INTO `cdb_medals` VALUES('10','Medal No.10','0','medal10.gif','0','0','','0','');

@@ -1,0 +1,1 @@
+<img src="[field:picname/]" width="1100" height="250" />

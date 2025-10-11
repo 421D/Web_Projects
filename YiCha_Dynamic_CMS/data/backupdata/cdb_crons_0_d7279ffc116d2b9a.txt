@@ -1,0 +1,12 @@
+INSERT INTO `cdb_crons` VALUES('1','1','system','清空今日发帖数','todayposts_daily.inc.php','1560783088','1560787200','-1','-1','0','0');
+INSERT INTO `cdb_crons` VALUES('2','1','system','清空本月在线时间','onlinetime_monthly.inc.php','1560787906','1561910400','-1','1','0','0');
+INSERT INTO `cdb_crons` VALUES('3','1','system','每日数据清理','cleanup_daily.inc.php','1560787921','1560807000','-1','-1','5','30');
+INSERT INTO `cdb_crons` VALUES('4','1','system','生日统计与邮件祝福','birthdays_daily.inc.php','1560787985','1560873600','-1','-1','0','0');
+INSERT INTO `cdb_crons` VALUES('5','1','system','主题回复通知','announcements_daily.inc.php','1560789172','1560873600','-1','-1','0','0');
+INSERT INTO `cdb_crons` VALUES('6','1','system','每日公告清理','threadexpiries_hourly.inc.php','1560851048','1560891600','-1','-1','5','0');
+INSERT INTO `cdb_crons` VALUES('7','1','system','限时操作清理','promotions_hourly.inc.php','1560852819','1560873600','-1','-1','0','00');
+INSERT INTO `cdb_crons` VALUES('8','1','system','论坛推广清理','cleanup_monthly.inc.php','1560853564','1561932000','-1','1','6','00');
+INSERT INTO `cdb_crons` VALUES('9','1','system','每月主题清理','magics_daily.inc.php','1560853574','1560873600','-1','-1','0','0');
+INSERT INTO `cdb_crons` VALUES('10','1','system','每日 X-Space更新用户','secqaa_daily.inc.php','1560853575','1560895200','-1','-1','6','0');
+INSERT INTO `cdb_crons` VALUES('11','1','system','每周主题更新','tags_daily.inc.php','1560853599','1561309200','1','-1','1','0');
+INSERT INTO `cdb_crons` VALUES('12','1','system','每日勋章更新','medals_daily.inc.php','0','1560670289','-1','-1','0','0');

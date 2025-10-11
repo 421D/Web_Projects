@@ -1,0 +1,4 @@
+INSERT INTO `dede_addonimages` VALUES('119','6','2','800','{dede:pagestyle maxwidth=\'800\' pagepicnum=\'12\' ddmaxwidth=\'200\' row=\'3\' col=\'4\' value=\'2\'/}\r\n','3','4','1','200','12','','127.0.0.1','','');
+INSERT INTO `dede_addonimages` VALUES('120','6','2','800','{dede:pagestyle maxwidth=\'800\' pagepicnum=\'12\' ddmaxwidth=\'200\' row=\'3\' col=\'4\' value=\'2\'/}\r\n','3','4','1','200','12','','127.0.0.1','','');
+INSERT INTO `dede_addonimages` VALUES('121','6','2','800','{dede:pagestyle maxwidth=\'800\' pagepicnum=\'12\' ddmaxwidth=\'200\' row=\'3\' col=\'4\' value=\'2\'/}\r\n','3','4','1','200','12','','127.0.0.1','','');
+INSERT INTO `dede_addonimages` VALUES('122','6','2','800','{dede:pagestyle maxwidth=\'800\' pagepicnum=\'12\' ddmaxwidth=\'200\' row=\'3\' col=\'4\' value=\'2\'/}\r\n','3','4','1','200','12','','127.0.0.1','','');

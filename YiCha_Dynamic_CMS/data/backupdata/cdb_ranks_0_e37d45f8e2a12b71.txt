@@ -1,0 +1,5 @@
+INSERT INTO `cdb_ranks` VALUES('1','新生入学','0','1','');
+INSERT INTO `cdb_ranks` VALUES('2','小试牛刀','50','2','');
+INSERT INTO `cdb_ranks` VALUES('3','实习记者','300','5','');
+INSERT INTO `cdb_ranks` VALUES('4','自由撰稿人','1000','4','');
+INSERT INTO `cdb_ranks` VALUES('5','特聘作家','3000','5','');

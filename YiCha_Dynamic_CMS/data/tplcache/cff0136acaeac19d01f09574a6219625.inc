@@ -1,0 +1,1 @@
+<div><img src="[field:cup1/]" width="263" height="230" /><br /><a href='[field:arcurl/]'>[field:title/]</a><br />会员价：<span>[field:trueprice /]元</span></div>

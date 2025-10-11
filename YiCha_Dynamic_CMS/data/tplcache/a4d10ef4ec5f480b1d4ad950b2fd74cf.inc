@@ -1,0 +1,1 @@
+{dede:img text='' width='950' height='665'} /tea/uploads/190616/1-1Z616151015464.jpg {/dede:img}

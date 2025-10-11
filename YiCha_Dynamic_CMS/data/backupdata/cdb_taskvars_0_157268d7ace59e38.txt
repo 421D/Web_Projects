@@ -1,0 +1,14 @@
+INSERT INTO `cdb_taskvars` VALUES('1','1','complete','回复指定主题','设置会员只有回复该主题才能完成任务，请填写主题的 tid(比如一个主题的地址是 http://localhost/viewthread.php?tid=8 那么该主题的 tid 就是 8)，留空为不限制','threadid','text','0','');
+INSERT INTO `cdb_taskvars` VALUES('2','1','setting','','','entrance','text','viewthread','');
+INSERT INTO `cdb_taskvars` VALUES('3','2','complete','在指定版块发表新主题','设置会员必须在某个版块发表至少一篇新主题才能完成任务','forumid','text','','');
+INSERT INTO `cdb_taskvars` VALUES('4','2','setting','','','entrance','text','forumdisplay','');
+INSERT INTO `cdb_taskvars` VALUES('5','3','complete','完善个人资料','申请任务后只要把自己的个人资料填写完整即可完成任务','','','','');
+INSERT INTO `cdb_taskvars` VALUES('6','3','setting','','','entrance','text','memcp','');
+INSERT INTO `cdb_taskvars` VALUES('7','4','complete','上传头像','申请任务后只要成功上传头像即可完成任务','','','','');
+INSERT INTO `cdb_taskvars` VALUES('8','4','setting','','','entrance','text','memcp','');
+INSERT INTO `cdb_taskvars` VALUES('9','5','complete','给指定会员发送短消息','只有给该会员成功发送短消息才能完成任务，请填写该会员的用户名','authorid','text','','');
+INSERT INTO `cdb_taskvars` VALUES('10','5','setting','','','entrance','text','space','');
+INSERT INTO `cdb_taskvars` VALUES('11','6','complete','将指定会员加为好友','只有将该会员加为好友才能完成任务，请填写该会员的用户名','authorid','text','','');
+INSERT INTO `cdb_taskvars` VALUES('12','6','setting','','','entrance','text','space','');
+INSERT INTO `cdb_taskvars` VALUES('13','7','complete','学会搜索','申请任务后只要成功使用论坛搜索功能即可完成任务','','','','');
+INSERT INTO `cdb_taskvars` VALUES('14','7','setting','','','entrance','text','search','');

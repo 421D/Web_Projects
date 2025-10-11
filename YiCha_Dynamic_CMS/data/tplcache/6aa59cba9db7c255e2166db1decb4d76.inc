@@ -1,0 +1,1 @@
+{dede:img text='' width='341' height='338'} /tea/templets/default/images/shop_list_cup_04.png {/dede:img}

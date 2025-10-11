@@ -1,0 +1,7 @@
+INSERT INTO `cdb_tasks` VALUES('1','0','1','0','回帖是一种美德','学习回帖，看帖回帖是一种美德，BS看帖不回帖的','','0','0','0','all','newbie_post_reply','0','0','0','credit','2','10','-1','');
+INSERT INTO `cdb_tasks` VALUES('2','0','1','0','我的第一次','学会发主题帖，成为社区的焦点','','0','0','0','all','newbie_post_newthread','0','0','0','credit','2','10','-1','');
+INSERT INTO `cdb_tasks` VALUES('3','0','1','0','与众不同','修改个人资料，让你和别人与众不同','','0','0','0','all','newbie_modifyprofile','0','0','0','credit','2','10','-1','');
+INSERT INTO `cdb_tasks` VALUES('4','0','1','0','我型我秀','上传头像，让大家认识一个全新的你','','0','0','0','all','newbie_uploadavatar','0','0','0','credit','2','10','-1','');
+INSERT INTO `cdb_tasks` VALUES('5','0','1','0','联络感情','给其他用户发个发短消息，大家联络一下感情','','0','0','0','all','newbie_sendpm','0','0','0','credit','2','10','-1','');
+INSERT INTO `cdb_tasks` VALUES('6','0','1','0','一个好汉三个帮','出来混的，没几个好友怎么行，加个好友吧','','0','0','0','all','newbie_addbuddy','0','0','0','credit','2','10','-1','');
+INSERT INTO `cdb_tasks` VALUES('7','0','1','0','信息时代','信息时代最缺的什么？搜索','','0','0','0','all','newbie_search','0','0','0','credit','2','10','-1','');

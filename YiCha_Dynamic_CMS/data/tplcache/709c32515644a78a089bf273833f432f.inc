@@ -1,0 +1,105 @@
+--{dede:list  pagesize='30' col='1' titlelen='60' orderby='pubdate' orderway='desc' 
+ channel='19'  att='a' }{dede:arclist  typeid='12'  row='5'  titlelen='105' addfields='img1,price' channelid='19'}
+
+
+ <div id="big">
+    <div class="top">
+      <div class="dwz">
+        <p>十大名茶 · 杭州</p>
+      </div>
+      <div class="xwz">
+        <p>发布时间：2019-5-20</p>
+      </div>
+    </div>
+
+    <hr color="#b5c3a5" noshade>
+    <br />
+
+
+    <div class="bottom">
+      <br /><br />
+      <p id="p1">“中国茶都”杭州，处处有好茶。</p>
+      <br />
+      <p>“杭州十大名茶”的是——
+        <p>西湖龙井、径山茶、千岛玉叶、雪水云绿、天目青顶、千岛银珍、安顶云雾、湘湖龙井、天尊贡芽、鸠坑毛尖</p>
+      </p>
+      <br />
+      <img src="http://localhost/tea/templets/default/images/arc_arc_01.jpg" width="1024" height="625"><br />
+      <br />
+      <p>西湖龙井</p>
+      <p> 　　特色：中国十大名茶之一，具有1200多年历史。龙井茶色泽翠绿，香气浓郁，甘醇爽口，形如雀舌，有“色绿、香郁、味甘、形美”四绝的特点。
+        <p>产地：西湖区、西湖风景名胜区</p>
+
+        <br /><br /><br />
+
+        <p>径山茶</p>
+        <p> 　　特色：径山茶在唐宋时期已经有名。日本僧人南浦昭明禅师曾经在径山寺研究佛学，后来把茶籽带回日本，是当今很多日本茶叶的茶种。 　　</p>
+        <p>产地：余杭</p>
+
+        <br /><br /><br />
+
+        <p>千岛玉叶</p>
+        <p> 　　特色 ：千岛玉叶产于千岛湖畔的山区，原称千岛湖龙井，外形特点是扁平挺直，绿翠露毫。有诗赞：“千岛湖畔产，品质齐超群。玉叶与玉芽，睦州姐妹茗”。</p>
+        <p>产地：淳安</p>
+
+        <br /><br /><br />
+
+        <br />
+        <img src="http://localhost/tea/templets/default/images/arc_arc_04.jpg" width="1024" height="625"><br />
+        <br />
+
+        <p>雪水云绿</p>
+        <p> 特色：雪水云绿以野生茶为主，产区群峰翠叠，云海飘渺，景色秀丽，林间茶丛点点，茶叶吸天地之精华，纳万物之灵气，清香飘溢。</p>
+        <p>产地：桐庐</p>
+
+        <br /><br /><br />
+
+        <p>天目青顶</p>
+        <p> 　　特色：天目青顶，又称天目云雾茶，是在国际商品评比中获得金奖的古今绿茶上品。该茶制作工艺精细，原料上乘，滋味鲜醇爽口，是色、香、味俱全的茶中佳品。 　　</p>
+        <p>产地：临安</p>
+
+
+        <br /><br /><br />
+
+        <p>千岛银珍</p>
+        <p> 　　特色：千岛银珍选用生态有机茶园内优质的明前细嫩单芽为原料炒制而成，具有形似针、香如兰、绿如翠、味甘醇等特点。 　　</p>
+        <p>产地：建德</p>
+
+        <br />
+        <img src="http://localhost/tea/templets/default/images/arc_arc_07.jpg" width="900" height="600">
+        <br />
+
+        <p>安顶云雾</p>
+        <p> 　　特色：安顶云雾叶片阔厚秀长，质地坚实，色泽翠绿而泛白光，人称&ldquo;金子片&rdquo;，早在明代正德年间就被朝廷列为贡品茶。 　　</p>
+        <p>产地：富阳</p>
+
+
+        <br /><br /><br />
+
+        <p>湘湖龙井</p>
+        <p> 　　特色：湘湖龙井属于龙井43的品种，茶叶外形平扁光滑，冲泡后茶叶嫩绿，汤色明亮，香气清高持久。 　　</p>
+        <p>产地：萧山</p>
+
+
+        <br />
+        <img src="http://localhost/tea/templets/default/images/arc_arc_03.jpg" width="900" height="600">
+        <br />
+
+        <p>天尊贡芽</p>
+        <p> 　　特色：天尊贡芽是半烘炒绿茶中的名茶，原名天尊贡岩茶。因产于桐庐县歌舞乡天尊峰东侧的天尊岩而得名。宋代曾作为贡品，系历史名茶。 　　</p>
+        <p>产地：桐庐</p>
+
+        <br /><br /><br />
+
+        <p>鸠坑毛尖</p>
+        <p> 　　特色：鸠坑毛尖自唐朝李肇的《唐国史补》中就有记载。其外形紧结，硕壮挺直，色泽嫩绿，白毫显露。　　</p>
+        <p>产地：淳安</p>
+
+        <br /><br /><br />
+
+        <p></p>
+    </div>
+  </div>
+
+
+ {/dede:arclist}{/dede:list}--

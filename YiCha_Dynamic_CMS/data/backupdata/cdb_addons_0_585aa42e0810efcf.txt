@@ -1,0 +1,2 @@
+INSERT INTO `cdb_addons` VALUES('25z5wh0o00','Comsenz','Comsenz','http://www.comsenz.com','Comsenz官方网站推荐的论坛模板与插件','ts@comsenz.com','http://www.comsenz.com/addon/logo.gif','1');
+INSERT INTO `cdb_addons` VALUES('R051uc9D1i','DPS','DPS','http://bbs.7dps.com','提供 Discuz! 插件与风格，享受一键安装/升级/卸载带来的快感，还提供少量风格。','http://bbs.7dps.com/thread-1646-1-1.html','http://api.7dps.com/addons/logo.gif','0');

@@ -1,0 +1,1 @@
+INSERT INTO `cdb_failedlogins` VALUES('127.0.0.1','1','1560666708');

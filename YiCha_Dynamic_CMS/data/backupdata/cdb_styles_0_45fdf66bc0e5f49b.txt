@@ -1,0 +1,1 @@
+INSERT INTO `cdb_styles` VALUES('1','д╛хо╥Г╦Я','1','1');

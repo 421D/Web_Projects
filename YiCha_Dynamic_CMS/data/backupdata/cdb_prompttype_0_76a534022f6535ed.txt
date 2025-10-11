@@ -1,0 +1,6 @@
+INSERT INTO `cdb_prompttype` VALUES('1','pm','私人消息','pm.php?filter=newpm');
+INSERT INTO `cdb_prompttype` VALUES('2','announcepm','公共消息','pm.php?filter=announcepm');
+INSERT INTO `cdb_prompttype` VALUES('3','task','论坛任务','task.php?item=doing');
+INSERT INTO `cdb_prompttype` VALUES('4','systempm','系统消息','');
+INSERT INTO `cdb_prompttype` VALUES('5','friend','好友消息','');
+INSERT INTO `cdb_prompttype` VALUES('6','threads','帖子消息','');

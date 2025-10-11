@@ -1,0 +1,1 @@
+INSERT INTO `cdb_uc_applications` VALUES('1','DISCUZ','Discuz! Board','http://localhost/tea/bbs','g1J3Xd0ewbmfYcE1K2a2fcr8s1S8GdmfubKfseH9r4s6jei1B1Ja514f42PeV4g2','127.0.0.1','','uc.php','','','1','1','','');

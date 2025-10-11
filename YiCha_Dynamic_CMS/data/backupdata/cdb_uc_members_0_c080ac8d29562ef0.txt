@@ -1,0 +1,1 @@
+INSERT INTO `cdb_uc_members` VALUES('1','admin','2683d68dc4fe023763c792913477c6f0','admin@your.com','','','hidden','1560666689','0','0','142c1b','');

@@ -1,0 +1,5 @@
+INSERT INTO `cdb_navs` VALUES('1','0','ÂÛÌ³','','#','0','0','1','1','0','0');
+INSERT INTO `cdb_navs` VALUES('2','0','ËÑË÷','','search.php','0','0','1','2','0','0');
+INSERT INTO `cdb_navs` VALUES('3','0','²å¼þ','','#','0','0','1','4','0','0');
+INSERT INTO `cdb_navs` VALUES('4','0','°ïÖú','','faq.php','0','0','1','5','0','0');
+INSERT INTO `cdb_navs` VALUES('5','0','µ¼º½','','#','0','0','1','6','0','0');

@@ -1,0 +1,1 @@
+INSERT INTO `cdb_forumlinks` VALUES('1','0','Discuz! 官方论坛','http://www.discuz.net','提供最新 Discuz! 产品新闻、软件下载与技术交流','images/logo.gif');
