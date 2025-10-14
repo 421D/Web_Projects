@@ -37,7 +37,7 @@ Developed and prototyped using **Figma** and **Pixso**, this prototype focuses o
 > This phase supports users in realising whether their rights have been violated by engaging with community discussions.
 
 
-### 3. 💬 FAQ & AI Assistant
+### 3. FAQ & AI Assistant
 - For quick inquiries, users can open the **FAQ Page**.  
 - Common consumer issues (e.g., complaint process, refund eligibility) are listed.  
 - An integrated **AI Assistant** helps users find answers instantly.
