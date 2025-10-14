@@ -34,7 +34,7 @@ Developed and prototyped using **Figma**, this prototype focuses on:
   - Explore related topics from the sidebar  
   - Leave comments or share personal experiences  
 
-> This phase supports users in realizing whether their rights have been violated by engaging with community discussions.
+> This phase supports users in realising whether their rights have been violated by engaging with community discussions.
 
 
 ### 3. 💬 FAQ & AI Assistant
@@ -108,8 +108,13 @@ This prototype was built with three guiding principles:
 
 ## Prototype Access
 - **Prototype Link:** [View the Interactive Prototype](./Final_prototype.pix)
-- **Preview Screenshots:** available in `/screenshots/` folder
-
+- **Preview SystemFlow:** [Preview SystemFlow](./Preview SystemFlow.png)
+  
+- **Preview:**
+    [HomePage](./screenshots/HomePage.png)
+    [Community%20Forum](./screenshots/Community%20Forum.png)
+    [Accessibility](./screenshots/Accessibility.png)
+  
 
 
 ## Summary
