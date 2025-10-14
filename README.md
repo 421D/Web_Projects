@@ -4,6 +4,12 @@ This folder showcases a collection of web projects completed during my early web
 Each project focuses on different aspects of **front-end design, UI interactivity, and dynamic data management**.  
 All projects were independently designed and developed.
 
+| Project | Type | Core Tech | Focus |
+|----------|-------|-----------|--------|
+| **Mobile_ECommerce_Mockup** | Static | HTML / CSS / JS | Responsive layout, animation, carousel |
+| **YiCha_Static** | Static | HTML / CSS / JS / jQuery | Interactivity, DOM manipulation |
+| **YiCha_Dynamic_DedeCMS** | Dynamic | PHP / CMS (Dedecms) | Backend logic, template integration |
+| **MAC_Cosmetic_Shop** | Static | HTML / CSS / JS | UI design, hover effects, form validation |
 ---
 
 ## 1. Mobile_ECommerce_Mockup
@@ -27,7 +33,7 @@ A front-end mockup of a mobile e-commerce platform demonstrating layout design a
 > Focused on front-end layout design, hover effects, and carousel scripting using vanilla JavaScript.
 
 **Preview:**  
-![Preview of Mobile_ECommerce_Mockup](./Mobile_ECommerce_Mockup/preview.png)
+![Preview of Mobile_ECommerce_Mockup](./preview/mobile_preview.png)
 
 ---
 
@@ -58,7 +64,7 @@ A multi-page static site themed around **Chinese tea culture**, designed to show
 >  A project focused on mastering DOM manipulation and front-end user experience.
 
 **Preview:**  
-![Preview of YiCha_Static](./YiCha_Static/preview.png)
+![Preview of YiCha_Static](./preview/yichaj_preview.png)
 
 ---
 
@@ -79,7 +85,7 @@ A CMS-based dynamic version of the YiCha static site, rebuilt with **Dedecms** t
 > Demonstrates transition from static design to data-driven website development using a CMS.
 
 **Preview:**  
-![Preview of YiCha_Dynamic_DedeCMS](./YiCha_Dynamic_DedeCMS/preview.png)
+![Preview of YiCha_Dynamic_DedeCMS](./preview/yichad_preview.png)
 
 ---
 
@@ -106,15 +112,6 @@ A brand-themed e-commerce website for **MAC Cosmetics**, focusing on clean desig
 > Built to explore multi-page structure, front-end styling, and form interaction design.
 
 **Preview:**  
-![Preview of MAC_Cosmetic_Shop](./MAC_Cosmetic_Shop/preview.png)
+![Preview of MAC_Cosmetic_Shop](./preview/MAC_preview.png)
 
----
 
-## Summary
-
-| Project | Type | Core Tech | Focus |
-|----------|-------|-----------|--------|
-| **Mobile_ECommerce_Mockup** | Static | HTML / CSS / JS | Responsive layout, animation, carousel |
-| **YiCha_Static** | Static | HTML / CSS / JS / jQuery | Interactivity, DOM manipulation |
-| **YiCha_Dynamic_DedeCMS** | Dynamic | PHP / CMS (Dedecms) | Backend logic, template integration |
-| **MAC_Cosmetic_Shop** | Static | HTML / CSS / JS | UI design, hover effects, form validation |
