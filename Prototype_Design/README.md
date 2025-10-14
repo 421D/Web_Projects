@@ -107,7 +107,7 @@ This prototype was built with three guiding principles:
 
 
 ## Prototype Access
-- **Prototype Link:** [View the Interactive Prototype](./Final_prototype.pix)
+- **Prototype Link:** [View the Interactive Prototype](https://pixso.cn/app/design/qdjXgK437SfpVolAH6HMJA?page-id=0%3A1)
 - **Preview SystemFlow:**  ![Preview of SystemFlow](./SystemFlow.png)
   
 - **Preview:**
