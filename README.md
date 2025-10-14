@@ -149,6 +149,11 @@ The project aims to provide an inclusive, accessible, and easy-to-use platform f
 - **Accessibility First:** optimised for all users, including those using assistive technologies
 - **UCD Workflow:** follows complete user journey — from learning rights → submitting case → tracking status
 - **Visual Consistency:** professional colour scheme, modular layout, high readability
+  
+
+
+**Preview:**  
+![Preview of Prototype](./preview/Prototype_preview.png)
 
 
 
