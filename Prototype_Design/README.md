@@ -7,7 +7,7 @@ This repository presents the **final interactive prototype** of our *Consumer Ri
 
 The platform aims to assist users in identifying, understanding, and resolving consumer rights issues through a combination of **community engagement**, **AI assistance**, and **legal support services**.
 
-Developed and prototyped using **Figma**, this prototype focuses on:
+Developed and prototyped using **Figma** and **Pixso**, this prototype focuses on:
 - Clear navigation and modular information structure  
 - Seamless user journey from awareness to resolution  
 - Accessibility support for visually impaired users  
@@ -111,10 +111,9 @@ This prototype was built with three guiding principles:
 - **Preview SystemFlow:** [Preview SystemFlow](./Preview SystemFlow.png)
   
 - **Preview:**
-    [HomePage](./screenshots/HomePage.png)
-    [Community%20Forum](./screenshots/Community%20Forum.png)
-    [Accessibility](./screenshots/Accessibility.png)
-  
+    ![Preview of HomePage](./screenshots/HomePage.png)
+    ![Preview of Community%20Forum](./screenshots/Community%20Forum.png)
+    ![Preview of Accessibility](./screenshots/Accessibility.png)
 
 
 ## Summary
