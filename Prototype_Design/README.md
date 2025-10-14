@@ -108,7 +108,7 @@ This prototype was built with three guiding principles:
 
 ## Prototype Access
 - **Prototype Link:** [View the Interactive Prototype](./Final_prototype.pix)
-- **Preview SystemFlow:** ![[Preview of SystemFlow](./SystemFlow.png)
+- **Preview SystemFlow:**  ![Preview of SystemFlow](./SystemFlow.png)
   
 - **Preview:**
   - ![Preview of HomePage](./screenshots/HomePage.png)
