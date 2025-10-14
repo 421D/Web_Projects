@@ -10,6 +10,7 @@ All projects were independently designed and developed.
 | **YiCha_Static** | Static | HTML / CSS / JS / jQuery | Interactivity, DOM manipulation |
 | **YiCha_Dynamic_DedeCMS** | Dynamic | PHP / CMS (Dedecms) | Backend logic, template integration |
 | **MAC_Cosmetic_Shop** | Static | HTML / CSS / JS | UI design, hover effects, form validation |
+| **LegalAid_Platform_Prototype (Figma)** | UI/UX | Figma / Pixso / UCD Principle | User-centred design, accessibility, workflow visualization |
 ---
 
 ## 1. Mobile_ECommerce_Mockup
@@ -113,5 +114,41 @@ A brand-themed e-commerce website for **MAC Cosmetics**, focusing on clean desig
 
 **Preview:**  
 ![Preview of MAC_Cosmetic_Shop](./preview/MAC_preview.png)
+
+
+## 5. LegalAid_Platform_Prototype
+
+**Type:** UI/UX Design Prototype
+**Design Principle:** UCD (User-Centred Design) + Accessibility
+**Description:**  
+A complete high-fidelity prototype for a legal aid and consumer rights protection platform.
+The project aims to provide an inclusive, accessible, and easy-to-use platform for users to seek legal help, submit cases, and access AI-assisted support.
+
+**Key Pages & Features:**
+- **Login Page:**
+  - Secure login and OTP password recovery
+  - Direct navigation to the main homepage after authentication
+- **Homepage:**  
+  - Clear navigation bar with modules like Online Services, Legal Wins, Recent News
+  - Designed for clarity and accessibility
+- **Community Forum:**  
+  - Users can browse posts, explore related topics, and post comments
+- **FAQ + AI Assistant:**  
+  - Combines a static FAQ database with a chatbot for quick inquiry
+- **Accessibility Page:**  
+  - Supports screen readers, high-contrast mode, and multilingual switching
+  - Accessible feedback form for visually impaired users
+- **Case Submission:**  
+  - Multiple form templates for complaints
+  - Optional contact methods (Email or Direct Support)
+- **User Account:**  
+  - Tracks viewed posts, saved topics, case status, and notifications
+
+
+**Design Highlights:**
+- **Accessibility First:** optimised for all users, including those using assistive technologies
+- **UCD Workflow:** follows complete user journey — from learning rights → submitting case → tracking status
+- **Visual Consistency:** professional colour scheme, modular layout, high readability
+
 
 
